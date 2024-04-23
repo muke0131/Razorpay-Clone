@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.box:hover{
+    box-shadow: 1px 1px 1px 1px rgb(169, 168, 168);
+}
